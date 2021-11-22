@@ -92,3 +92,11 @@ body {
 .navbar ul.nav-link:hover {
   border-color: white;
 }
+.img-right {
+   float: right;
+   margin: 15px
+}
+.img-left {
+  float: left;
+  margin: 15px;
+}
